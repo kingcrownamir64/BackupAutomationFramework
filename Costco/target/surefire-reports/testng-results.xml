@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report Directory/Users/amir/Desktop/Group2AutomationFramework/Costco/target/surefire-reports/html]]>
+    </line>
+  </reporter-output>
+  <suite name="TestHomePage" duration-ms="200297" started-at="2019-03-26T05:21:35Z" finished-at="2019-03-26T05:24:55Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="200297" started-at="2019-03-26T05:21:35Z" finished-at="2019-03-26T05:24:55Z">
+      <class name="TestHomePage">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:TestHomePage@7225790e]" name="extentSetup" is-config="true" duration-ms="116" started-at="2019-03-26T01:21:35Z" finished-at="2019-03-26T01:21:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@19648c40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report Directory/Users/amir/Desktop/Group2AutomationFramework/Costco/target/surefire-reports/html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:TestHomePage@7225790e]" name="setUp" is-config="true" duration-ms="1446" started-at="2019-03-26T01:21:35Z" finished-at="2019-03-26T01:21:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome-options]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.cnn.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:TestHomePage@7225790e]" name="startExtent" is-config="true" duration-ms="3" started-at="2019-03-26T01:21:36Z" finished-at="2019-03-26T01:21:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestHomePage.testHomepageTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestHomePage@7225790e]" name="initialize" is-config="true" duration-ms="5134" started-at="2019-03-26T01:21:36Z" finished-at="2019-03-26T01:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testHomepageTitle()[pri:0, instance:TestHomePage@7225790e]" name="testHomepageTitle" duration-ms="21" started-at="2019-03-26T01:21:41Z" finished-at="2019-03-26T01:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomepageTitle -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:TestHomePage@7225790e]" name="afterEachTestMethod" is-config="true" duration-ms="198" started-at="2019-03-26T01:21:42Z" finished-at="2019-03-26T01:21:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHomepageTitle status=SUCCESS method=TestHomePage.testHomepageTitle()[pri:0, instance:TestHomePage@7225790e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestHomePage@7225790e]" name="initialize" is-config="true" duration-ms="9386" started-at="2019-03-26T01:21:42Z" finished-at="2019-03-26T01:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:TestHomePage@7225790e]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T01:21:42Z" finished-at="2019-03-26T01:21:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestHomePage.clickCategoriesTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="clickCategoriesTest()[pri:0, instance:TestHomePage@7225790e]" name="clickCategoriesTest" duration-ms="37654" started-at="2019-03-26T01:21:51Z" finished-at="2019-03-26T01:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCategoriesTest -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:TestHomePage@7225790e]" name="afterEachTestMethod" is-config="true" duration-ms="30" started-at="2019-03-26T01:22:29Z" finished-at="2019-03-26T01:22:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickCategoriesTest status=SUCCESS method=TestHomePage.clickCategoriesTest()[pri:0, instance:TestHomePage@7225790e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestHomePage@7225790e]" name="initialize" is-config="true" duration-ms="10296" started-at="2019-03-26T01:22:29Z" finished-at="2019-03-26T01:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:TestHomePage@7225790e]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T01:22:29Z" finished-at="2019-03-26T01:22:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestHomePage.search() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="search()[pri:0, instance:TestHomePage@7225790e]" name="search" duration-ms="17862" started-at="2019-03-26T01:22:39Z" finished-at="2019-03-26T01:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:TestHomePage@7225790e]" name="afterEachTestMethod" is-config="true" duration-ms="27" started-at="2019-03-26T01:22:57Z" finished-at="2019-03-26T01:22:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=search status=SUCCESS method=TestHomePage.search()[pri:0, instance:TestHomePage@7225790e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:TestHomePage@7225790e]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T01:22:57Z" finished-at="2019-03-26T01:22:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestHomePage.testCustomerService() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestHomePage@7225790e]" name="initialize" is-config="true" duration-ms="14022" started-at="2019-03-26T01:22:57Z" finished-at="2019-03-26T01:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testCustomerService()[pri:0, instance:TestHomePage@7225790e]" name="testCustomerService" duration-ms="7080" started-at="2019-03-26T01:23:11Z" finished-at="2019-03-26T01:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCustomerService -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:TestHomePage@7225790e]" name="afterEachTestMethod" is-config="true" duration-ms="26" started-at="2019-03-26T01:23:18Z" finished-at="2019-03-26T01:23:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCustomerService status=SUCCESS method=TestHomePage.testCustomerService()[pri:0, instance:TestHomePage@7225790e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:TestHomePage@7225790e]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T01:23:18Z" finished-at="2019-03-26T01:23:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestHomePage.searchMacbook() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestHomePage@7225790e]" name="initialize" is-config="true" duration-ms="10349" started-at="2019-03-26T01:23:18Z" finished-at="2019-03-26T01:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="searchMacbook()[pri:0, instance:TestHomePage@7225790e]" name="searchMacbook" duration-ms="9498" started-at="2019-03-26T01:23:28Z" finished-at="2019-03-26T01:23:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMacbook -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:TestHomePage@7225790e]" name="afterEachTestMethod" is-config="true" duration-ms="31" started-at="2019-03-26T01:23:38Z" finished-at="2019-03-26T01:23:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchMacbook status=SUCCESS method=TestHomePage.searchMacbook()[pri:0, instance:TestHomePage@7225790e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:TestHomePage@7225790e]" name="startExtent" is-config="true" duration-ms="3" started-at="2019-03-26T01:23:38Z" finished-at="2019-03-26T01:23:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestHomePage.clickLocationsTab() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestHomePage@7225790e]" name="initialize" is-config="true" duration-ms="20082" started-at="2019-03-26T01:23:38Z" finished-at="2019-03-26T01:23:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="clickLocationsTab()[pri:0, instance:TestHomePage@7225790e]" name="clickLocationsTab" duration-ms="21818" started-at="2019-03-26T01:23:58Z" finished-at="2019-03-26T01:24:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLocationsTab -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:TestHomePage@7225790e]" name="afterEachTestMethod" is-config="true" duration-ms="19" started-at="2019-03-26T01:24:20Z" finished-at="2019-03-26T01:24:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickLocationsTab status=SUCCESS method=TestHomePage.clickLocationsTab()[pri:0, instance:TestHomePage@7225790e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:TestHomePage@7225790e]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T01:24:20Z" finished-at="2019-03-26T01:24:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestHomePage.testDropDown() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestHomePage@7225790e]" name="initialize" is-config="true" duration-ms="9362" started-at="2019-03-26T01:24:20Z" finished-at="2019-03-26T01:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="testDropDown()[pri:0, instance:TestHomePage@7225790e]" name="testDropDown" duration-ms="6438" started-at="2019-03-26T01:24:29Z" finished-at="2019-03-26T01:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropDown -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:TestHomePage@7225790e]" name="afterEachTestMethod" is-config="true" duration-ms="23" started-at="2019-03-26T01:24:36Z" finished-at="2019-03-26T01:24:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDropDown status=SUCCESS method=TestHomePage.testDropDown()[pri:0, instance:TestHomePage@7225790e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:TestHomePage@7225790e]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T01:24:36Z" finished-at="2019-03-26T01:24:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestHomePage.searchInGrocery() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:TestHomePage@7225790e]" name="initialize" is-config="true" duration-ms="9337" started-at="2019-03-26T01:24:36Z" finished-at="2019-03-26T01:24:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="searchInGrocery()[pri:0, instance:TestHomePage@7225790e]" name="searchInGrocery" duration-ms="9934" started-at="2019-03-26T01:24:45Z" finished-at="2019-03-26T01:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchInGrocery -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:TestHomePage@7225790e]" name="afterEachTestMethod" is-config="true" duration-ms="22" started-at="2019-03-26T01:24:55Z" finished-at="2019-03-26T01:24:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchInGrocery status=SUCCESS method=TestHomePage.searchInGrocery()[pri:0, instance:TestHomePage@7225790e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:TestHomePage@7225790e]" name="cleanUp" is-config="true" duration-ms="183" started-at="2019-03-26T01:24:55Z" finished-at="2019-03-26T01:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:TestHomePage@7225790e]" name="generateReport" is-config="true" duration-ms="39" started-at="2019-03-26T01:24:55Z" finished-at="2019-03-26T01:24:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- TestHomePage -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestHomePage -->
+</testng-results>

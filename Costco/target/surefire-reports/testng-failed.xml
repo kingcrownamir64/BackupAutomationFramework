@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [TestHomePage]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="TestHomePage">
+        <methods>
+          <include name="testDropDown"/>
+          <include name="clickLocationsTab"/>
+          <include name="afterEachTestMethod"/>
+          <include name="extentSetup"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+          <include name="searchInGrocery"/>
+          <include name="search"/>
+          <include name="clickCategoriesTest"/>
+          <include name="searchMacbook"/>
+          <include name="initialize"/>
+          <include name="testCustomerService"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- TestHomePage -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [TestHomePage] -->

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="20" failed="0" total="20" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report Directory/Users/Saqib/Documents/IntelliJ Projects/Group2AutomationFramework/FaceBook/target/surefire-reports/html]]>
+    </line>
+  </reporter-output>
+  <suite name="testFaceBookHomeTabsVarifys.TestHomeTabsVarifys" duration-ms="43" started-at="2019-03-26T04:29:40Z" finished-at="2019-03-26T04:29:40Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="43" started-at="2019-03-26T04:29:40Z" finished-at="2019-03-26T04:29:40Z">
+      <class name="testFaceBookHomeTabsVarifys.TestHomeTabsVarifys">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="extentSetup" is-config="true" duration-ms="5188" started-at="2019-03-26T00:29:35Z" finished-at="2019-03-26T00:29:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@eafc191]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report Directory/Users/Saqib/Documents/IntelliJ Projects/Group2AutomationFramework/FaceBook/target/surefire-reports/html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="FAIL" signature="initialization()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="initialization" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at testFaceBookHomeTabsVarifys.TestHomeTabsVarifys.initialization(TestHomeTabsVarifys.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:564)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:213)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:175)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:107)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:110)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="SKIP" signature="testEventsTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testEventsTab" duration-ms="1" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEventsTab -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="testFilmTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testFilmTab" duration-ms="1" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilmTab -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testFindFriendTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testFindFriendTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindFriendTab -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testFriendListTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testFriendListTab" duration-ms="1" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFriendListTab -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="testFundRisers()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testFundRisers" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFundRisers -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testGamesTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testGamesTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGamesTab -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="testGamingVideo()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testGamingVideo" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGamingVideo -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testGroupTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testGroupTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGroupTab -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="testJobTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testJobTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJobTab -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="testMemoriesTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testMemoriesTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMemoriesTab -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testMessegerKidsTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testMessegerKidsTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMessegerKidsTab -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="testOfferTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testOfferTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOfferTab -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="testRecomendationTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testRecomendationTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRecomendationTab -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="testSetMessengerTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testSetMessengerTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetMessengerTab -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="testSetNewsFeed()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testSetNewsFeed" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetNewsFeed -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="testSetPagesTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testSetPagesTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetPagesTab -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="testSetWatchTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testSetWatchTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetWatchTab -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="testSetWellcomeTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testSetWellcomeTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetWellcomeTab -->
+        <test-method status="SKIP" signature="testTownHallTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testTownHallTab" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTownHallTab -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testWeatherTab()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="testWeatherTab" duration-ms="1" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWeatherTab -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="startExtent" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="setUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="cleanUp()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="SKIP" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:40Z" finished-at="2019-03-26T00:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="SKIP" signature="generateReport()[pri:0, instance:testFaceBookHomeTabsVarifys.TestHomeTabsVarifys@4909b8da]" name="generateReport" is-config="true" duration-ms="0" started-at="2019-03-26T00:29:45Z" finished-at="2019-03-26T00:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- testFaceBookHomeTabsVarifys.TestHomeTabsVarifys -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testFaceBookHomeTabsVarifys.TestHomeTabsVarifys -->
+</testng-results>
